@@ -50,5 +50,5 @@ git push origin main
     在开始修改文件之前，先运行以下命令，确保你的代码是最新版本，防止覆盖别人的工作。
     
 ```bash
-    git pull
+    git pull origin main
     ```
