@@ -5,7 +5,7 @@
 #### 第一步：把代码下载到你的电脑
 这一步只需要做一次。打开终端，输入下面的命令，然后按回车。
 
-git clone https://github.com/Achyutace/your_repository.git
+git clone https://github.com/Achyutace/electrofly.git
 
 这会把服务器上的整个项目文件夹下载到你的电脑里。
 
