@@ -1,3 +1,5 @@
+<img width="1440" height="810" alt="幻灯片3" src="https://github.com/user-attachments/assets/60113e51-be79-4138-ab32-5947c7034f35" />
+
 这个项目是2025年advx的3C1T队伍的成品代码库，具体说明在docs.md。
 
 ## 文件结构
